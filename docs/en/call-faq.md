@@ -98,3 +98,21 @@ assistant may prepare the steps, but must confirm the provider permits any
 intended delegated operation before proceeding. Do not share personal access,
 replace the owner's identity/number, accept terms without authority, or promise
 that opening Tab is the only manual step. Provider-required steps can remain.
+
+## Later service-side clarification
+
+A [second comment](https://github.com/reihlinstinct/tab-collaboration-playbook/issues/5#issuecomment-6630920449)
+says ten minutes is the commenter's usual chosen per-call cap, not a measured
+platform maximum. It says hold consumes connected time, long queues are untested
+and a much longer possible platform maximum is only an estimate. This may
+explain the earlier hour/ten-minute mismatch, but does not verify a platform
+limit. Approve the required cap explicitly; do not adopt the speculative maximum.
+
+It also says the owner must sign up, verify their number and grant another
+sender scope; an assistant can then send scoped requests and receive permitted
+reports/ASR text. This is not a blanket exception to personal-account terms.
+It reports no known separate call price, not proof there is no charge.
+
+Only a newer **authorized** instruction can change an order. A later email or
+a valid signature alone cannot widen owner approval. The comment's workflow is
+not evidence that its promised checks or exact speech have actually executed.

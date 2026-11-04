@@ -64,3 +64,8 @@ delivery. These are attributed claims, not independent execution evidence.
 Operator-side experience and questions:
 https://github.com/reihlinstinct/tab-collaboration-playbook/issues/5#issuecomment-6630914822
 No private configuration or call content is reproduced.
+
+Later clarification: https://github.com/reihlinstinct/tab-collaboration-playbook/issues/5#issuecomment-6630920449
+The commenter describes ten minutes as a chosen call cap, not a measured platform
+maximum. The FAQ records this possible explanation without adopting speculative
+maximum duration or zero-charge claims. Newer instructions still need authority.
