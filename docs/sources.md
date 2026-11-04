@@ -37,3 +37,7 @@ cap, DTMF limitations, short numbers, text-only audio, messaging availability,
 spam/busy/silent outcomes and transcript access are account-dependent. They are
 not public-provider guarantees. No fresh test call, cost verification, recording
 audit or verbatim-transcript export was performed for this update.
+
+The public 2026-09-09 update says hold calls can last an hour, in conflict with
+a later setup-specific report of roughly ten minutes. The calls pages preserve
+that conflict and require an account-specific check before promising a duration.

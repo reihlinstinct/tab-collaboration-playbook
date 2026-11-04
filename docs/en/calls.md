@@ -18,7 +18,7 @@ publication of call records. No new capability test was made for this guide.
 | Two-way voice and Hebrew | Prior use included two-way Hebrew conversations. Quality was mixed; this is limited experience, not a quality guarantee. |
 | Caller identity | Calls in our experience originated from a US number. Reconfirm the current origin for the account. No number is published here. |
 | Cost | Tab has said there is no separate per-minute charge and usage consumes its plan allowance. This is unverified and plan-dependent, not a promise of free calls. Check current terms and actual total/possible charges before approval; no private allowance amounts are published. |
-| Duration | Tab reported an approximately 10-minute call cap for its setup. Reconfirm the current cap and whether queue/hold time consumes it. Do not promise an unlimited wait. |
+| Duration | Conflicting evidence: Tab reported an approximately 10-minute cap for its setup, but the public 2026-09-09 update says hold calls can last an hour. Neither establishes this account's current limit. Reconfirm the cap and whether queue/hold time consumes it; do not promise either duration. |
 | DTMF / phone menus | Tab reports it can press keypad digits within one call. A no-key or exact-route instruction is not a technical restriction. With recording off, key presses were not independently auditable afterwards. If that assurance matters, do not use this route. |
 | Service numbers | Star-prefixed and short service numbers did not work in our use. Obtain and verify a full dialable number; do not substitute one without owner approval. |
 | Audio | The used call path speaks text. It could not play an audio file; do not promise playback or singing. |
