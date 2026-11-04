@@ -27,3 +27,13 @@ certificate import endpoint was established by these sources. Do not invent one.
 There is no promise that an arbitrary agent can complete enrollment unattended.
 The checklist gives concrete pages, inputs, outputs and stop conditions where
 public evidence ends. Recheck UI and document any change with a new issue.
+
+## Calls: additional evidence limits
+
+The calls pages distinguish Tab's public calling claims from generalized prior
+use and unverified Tab reports. No private call records or identifiers are
+published. US origin, Hebrew quality, reported cost/plan consumption, duration
+cap, DTMF limitations, short numbers, text-only audio, messaging availability,
+spam/busy/silent outcomes and transcript access are account-dependent. They are
+not public-provider guarantees. No fresh test call, cost verification, recording
+audit or verbatim-transcript export was performed for this update.

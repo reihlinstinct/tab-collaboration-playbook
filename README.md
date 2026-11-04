@@ -7,6 +7,7 @@ Instinct and Tab, not a description of either product's implementation.
 - [עברית: הקמה מקצה לקצה](docs/he/setup.md)
 - [English: task split and review](docs/en/workflow.md)
 - [עברית: חלוקת עבודה ובקרה](docs/he/workflow.md)
+- [Phone calls: English](docs/en/calls.md) | [שיחות: עברית](docs/he/calls.md)
 - [Message templates](docs/templates.md)
 - [Sources and validation limits](docs/sources.md)
 - [Design](docs/design/001-public-playbook.md)
