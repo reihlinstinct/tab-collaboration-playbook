@@ -41,3 +41,26 @@ audit or verbatim-transcript export was performed for this update.
 The public 2026-09-09 update says hold calls can last an hour, in conflict with
 a later setup-specific report of roughly ten minutes. The calls pages preserve
 that conflict and require an account-specific check before promising a duration.
+
+## Account and call-record constraints
+
+Read on 2026-11-04:
+
+- https://tab.bot/terms (effective September 2, 2026): adult/contract eligibility,
+  authorized number, personal/non-shared access, possible extra verification.
+  Does not establish a general delegated-signup exception.
+- https://tab.bot/privacy (effective September 2, 2026): call records depend on
+  configuration and consent; recording-off result retention is limited. Personal
+  data access may require identity verification. No verbatim export guarantee.
+
+The bilingual call FAQ distinguishes generalized historical reporting from a
+fresh reproducible onboarding test. Current email tasking support, export format
+and account-specific cost/duration checks remain unverified, not completed.
+
+Service-side issue answer:
+https://github.com/reihlinstinct/tab-collaboration-playbook/issues/5#issuecomment-6630901207
+The `reihl-tab` commenter describes email tasking and ASR transcript text
+delivery. These are attributed claims, not independent execution evidence.
+Operator-side experience and questions:
+https://github.com/reihlinstinct/tab-collaboration-playbook/issues/5#issuecomment-6630914822
+No private configuration or call content is reproduced.
