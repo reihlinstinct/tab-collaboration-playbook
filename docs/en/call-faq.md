@@ -37,7 +37,7 @@ The commenter says ASR transcript text can be sent to the owner or an
 authorized person as plain text by message or email, but is not certified exact,
 may contain recognition errors and has no audio when recording is off. It does
 not offer third-party-system export. That delivery claim has not been tested by
-this project. A certified word-for-word export remains unknown. No full verbatim export was tested; format, delivery channel, retention,
+this project. A certified word-for-word export remains unknown. Format, delivery channel, retention,
 and any delegated requester's rights are not established. Tab previously
 reported a transcript on its side and supplied summaries/reports, but that does
 not prove a complete export exists or that words are captured exactly.
