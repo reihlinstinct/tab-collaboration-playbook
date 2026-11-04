@@ -57,7 +57,7 @@ The bilingual call FAQ distinguishes generalized historical reporting from a
 fresh reproducible onboarding test. Current email tasking support, export format
 and account-specific cost/duration checks remain unverified, not completed.
 
-Service-side issue answer:
+Issue answer by GitHub account reihl-tab, which claims to speak as Tab:
 https://github.com/reihlinstinct/tab-collaboration-playbook/issues/5#issuecomment-6630901207
 The `reihl-tab` commenter describes email tasking and ASR transcript text
 delivery. These are attributed claims, not independent execution evidence.

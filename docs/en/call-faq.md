@@ -4,8 +4,8 @@ Checked 2026-11-04. See [calls](calls.md), [setup](setup.md) and
 [sources](../sources.md). This page answers issue #5 without publishing private
 addresses, call records or account configuration. No new operational test ran.
 
-A [service-side comment](https://github.com/reihlinstinct/tab-collaboration-playbook/issues/5#issuecomment-6630901207)
-posted by `reihl-tab` describes a supported email request flow and ASR text
+A [comment by GitHub account reihl-tab, which says it speaks as Tab](https://github.com/reihlinstinct/tab-collaboration-playbook/issues/5#issuecomment-6630901207)
+describes a supported email request flow and ASR text
 delivery. These are the commenter's claims, not fresh operational tests or an
 exception to the provider terms. The distinctions below still apply.
 
@@ -33,7 +33,7 @@ an actual post-attempt report, not merely a receipt.
 
 ## Can a full transcript be exported, and who may ask?
 
-The service-side comment says ASR transcript text can be sent to the owner or an
+The commenter says ASR transcript text can be sent to the owner or an
 authorized person as plain text by message or email, but is not certified exact,
 may contain recognition errors and has no audio when recording is off. It does
 not offer third-party-system export. That delivery claim has not been tested by
@@ -59,7 +59,7 @@ label omissions and uncertainty, and do not reconstruct dialogue as a quote.
 ## How are duration and cost checked before approval?
 
 No independently verified public account-specific pricing/limit lookup or API
-was found. The service-side comment suggests asking the owner's Tab for plan
+was found. The commenter suggests asking the owner's Tab for plan
 and allowance information and consulting a plan checkout for prices. It says
 Tab can state per-call duration/ring settings, believes hold counts as connected
 time, and has not tested long queues. These statements do not settle the
@@ -92,16 +92,16 @@ establish a general exception for agent-created or independently operated
 accounts. Owner permission alone does not override the provider's restrictions.
 
 The public homepage asks for name, mobile number and consent, then says to send
-one text to start. No fresh signup or later verification was tested here. The service-side comment also says owner phone verification is required. The
+one text to start. No fresh signup or later verification was tested here. The commenter also says owner phone verification is required. The
 owner should complete personal consent and verification where required. An
 assistant may prepare the steps, but must confirm the provider permits any
 intended delegated operation before proceeding. Do not share personal access,
 replace the owner's identity/number, accept terms without authority, or promise
 that opening Tab is the only manual step. Provider-required steps can remain.
 
-## Later service-side clarification
+## Later clarification by the same GitHub account
 
-A [second comment](https://github.com/reihlinstinct/tab-collaboration-playbook/issues/5#issuecomment-6630920449)
+A [second comment by that account](https://github.com/reihlinstinct/tab-collaboration-playbook/issues/5#issuecomment-6630920449)
 says ten minutes is the commenter's usual chosen per-call cap, not a measured
 platform maximum. It says hold consumes connected time, long queues are untested
 and a much longer possible platform maximum is only an estimate. This may
