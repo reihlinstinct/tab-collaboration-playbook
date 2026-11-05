@@ -14,3 +14,20 @@ jobs:
           persist-credentials: false
       - run: python3 scripts/check_docs.py
       - run: python3 -m unittest discover -s tests -v
+
+  privacy:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Pinned shared privacy guard
+        id: privacy
+        uses: reihlinstinct/repo-checks/actions/privacy@c9a60fadeecab75bde9674e96b3d76a5e2fe6645
+        with:
+          checkout-root: ${{ github.workspace }}
+      - name: Privacy gate summary
+        if: always()
+        run: |
+          printf "%s\n" "## Privacy gate" "- Existing documentation hygiene checks retained." "- Shared tracked-text guard outcome: ${{ steps.privacy.outcome }}." "- Counts only; no source values or paths in scanner output." "- Binary files still need separate review." >> "$GITHUB_STEP_SUMMARY"
