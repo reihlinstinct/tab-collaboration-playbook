@@ -21,3 +21,7 @@ Publish generic public-facing practices only, not product implementation interna
 
 Local check: `python3 scripts/check_docs.py`. Tests: `python3 -m unittest discover -s tests -v`.
 No product onboarding code belongs in this docs-only first release.
+
+## File placement (enforced)
+
+Decide where a file lives BEFORE creating it. The contract in `.repo-layout.yml` lists the allowed top-level directories, the file types permitted in each, and the required community-standards files; `python tools/check_repo_layout.py` enforces it in CI. A new kind of file means updating the contract in the same PR.
