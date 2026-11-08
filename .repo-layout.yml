@@ -16,8 +16,7 @@
       "*.md",
       "*.yml",
       ".gitignore",
-      "LICENSE",
-      "deps-inventory.json"
+      "LICENSE"
     ],
     "deny": [
       "*.py"
