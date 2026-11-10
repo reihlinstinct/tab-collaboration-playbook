@@ -12,11 +12,13 @@ party on a call).
 - [עברית: הקמה מקצה לקצה](docs/he/setup.md)
 - [English: task split and review](docs/en/workflow.md)
 - [עברית: חלוקת עבודה ובקרה](docs/he/workflow.md)
-- [Phone calls: English](docs/en/calls.md) | [שיחות: עברית](docs/he/calls.md)
-- [Call setup FAQ: English](docs/en/call-faq.md) | [שאלות על שיחות: עברית](docs/he/call-faq.md)
+- [Français : mise en place de bout en bout](docs/fr/setup.md)
+- [Français : répartition du travail et revue](docs/fr/workflow.md)
+- [Phone calls: English](docs/en/calls.md) | [שיחות: עברית](docs/he/calls.md) | [Appels : français](docs/fr/calls.md)
+- [Call setup FAQ: English](docs/en/call-faq.md) | [שאלות על שיחות: עברית](docs/he/call-faq.md) | [FAQ appels : français](docs/fr/call-faq.md)
 - [Message templates](docs/templates.md)
 - [Sources and validation limits](docs/sources.md)
-- [Design](docs/design/001-public-playbook.md)
+- [Design](docs/design/001-public-playbook.md) | [Languages](docs/design/004-languages.md)
 - [Contributing](CONTRIBUTING.md) | [Security](SECURITY.md)
 
 The agent does the setup work. The owner's intended routine manual step is at
@@ -35,6 +37,11 @@ marked as such; do not report completion without the listed checks.
 
 תפקידים: **בעלים** (האדם שסמכותו חלה), **מתחזק** (הסוכן המתאם, למשל
 Instinct), **עוזר** (Tab), **נמען** (צד שלישי בשיחה).
+
+Languages: each folder under `docs/` that opens its `README.md` with a language
+block is one language ([English](docs/en/README.md), [עברית](docs/he/README.md),
+[Français](docs/fr/README.md)). French (fr) is a machine draft needing native
+review; English and Hebrew are the reference versions.
 
 ## Start
 
